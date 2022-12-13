@@ -1,2 +1,2 @@
-# NesterovRailwayTransportCompany
-My project with a transport company web page
+# YaroStore
+My project with an online store
